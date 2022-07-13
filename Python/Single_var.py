@@ -1,4 +1,4 @@
-// Cosmic Ray Detector by TasfiqulTapu
+# Cosmic Ray Detector by TasfiqulTapu
 DETECT = 0
 while not DETECT:
     continue
